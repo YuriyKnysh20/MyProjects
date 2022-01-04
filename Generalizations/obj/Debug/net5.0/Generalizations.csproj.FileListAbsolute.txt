@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\Generalizations.exe
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\Generalizations.deps.json
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\Generalizations.runtimeconfig.json
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\Generalizations.runtimeconfig.dev.json
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\Generalizations.dll
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\ref\Generalizations.dll
+F:\C#\MyProjects\Generalizations\bin\Debug\net5.0\Generalizations.pdb
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.AssemblyInfo.cs
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.dll
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\ref\Generalizations.dll
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.pdb
+F:\C#\MyProjects\Generalizations\obj\Debug\net5.0\Generalizations.genruntimeconfig.cache

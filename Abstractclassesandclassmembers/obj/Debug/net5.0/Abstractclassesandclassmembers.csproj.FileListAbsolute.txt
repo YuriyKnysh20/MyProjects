@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\Abstractclassesandclassmembers.exe
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\Abstractclassesandclassmembers.deps.json
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\Abstractclassesandclassmembers.runtimeconfig.json
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\Abstractclassesandclassmembers.runtimeconfig.dev.json
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\Abstractclassesandclassmembers.dll
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\ref\Abstractclassesandclassmembers.dll
+F:\C#\MyProjects\Abstractclassesandclassmembers\bin\Debug\net5.0\Abstractclassesandclassmembers.pdb
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.AssemblyInfo.cs
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.dll
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\ref\Abstractclassesandclassmembers.dll
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.pdb
+F:\C#\MyProjects\Abstractclassesandclassmembers\obj\Debug\net5.0\Abstractclassesandclassmembers.genruntimeconfig.cache

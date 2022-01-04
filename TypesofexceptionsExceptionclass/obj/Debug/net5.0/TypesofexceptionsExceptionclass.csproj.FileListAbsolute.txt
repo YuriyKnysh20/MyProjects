@@ -1,0 +1,16 @@
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\TypesofexceptionsExceptionclass.exe
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\TypesofexceptionsExceptionclass.deps.json
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\TypesofexceptionsExceptionclass.runtimeconfig.json
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\TypesofexceptionsExceptionclass.runtimeconfig.dev.json
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\TypesofexceptionsExceptionclass.dll
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\ref\TypesofexceptionsExceptionclass.dll
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\bin\Debug\net5.0\TypesofexceptionsExceptionclass.pdb
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.csproj.AssemblyReference.cache
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.AssemblyInfoInputs.cache
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.AssemblyInfo.cs
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.dll
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\ref\TypesofexceptionsExceptionclass.dll
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.pdb
+F:\C#\MyProjects\TypesofexceptionsExceptionclass\obj\Debug\net5.0\TypesofexceptionsExceptionclass.genruntimeconfig.cache

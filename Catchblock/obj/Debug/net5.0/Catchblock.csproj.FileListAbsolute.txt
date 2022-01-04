@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\Catchblock.exe
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\Catchblock.deps.json
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\Catchblock.runtimeconfig.json
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\Catchblock.runtimeconfig.dev.json
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\Catchblock.dll
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\ref\Catchblock.dll
+F:\C#\MyProjects\Catchblock\bin\Debug\net5.0\Catchblock.pdb
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.AssemblyInfo.cs
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.dll
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\ref\Catchblock.dll
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.pdb
+F:\C#\MyProjects\Catchblock\obj\Debug\net5.0\Catchblock.genruntimeconfig.cache
