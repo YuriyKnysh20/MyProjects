@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\Bitwiseoperations.exe
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\Bitwiseoperations.deps.json
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\Bitwiseoperations.runtimeconfig.json
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\Bitwiseoperations.runtimeconfig.dev.json
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\Bitwiseoperations.dll
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\ref\Bitwiseoperations.dll
+F:\C#\MyProjects\Bitwiseoperations\bin\Debug\net5.0\Bitwiseoperations.pdb
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.AssemblyInfo.cs
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.dll
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\ref\Bitwiseoperations.dll
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.pdb
+F:\C#\MyProjects\Bitwiseoperations\obj\Debug\net5.0\Bitwiseoperations.genruntimeconfig.cache

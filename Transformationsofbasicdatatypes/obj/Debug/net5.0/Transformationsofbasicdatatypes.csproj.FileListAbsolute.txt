@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\Transformationsofbasicdatatypes.exe
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\Transformationsofbasicdatatypes.deps.json
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\Transformationsofbasicdatatypes.runtimeconfig.json
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\Transformationsofbasicdatatypes.runtimeconfig.dev.json
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\Transformationsofbasicdatatypes.dll
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\ref\Transformationsofbasicdatatypes.dll
+F:\C#\MyProjects\Transformationsofbasicdatatypes\bin\Debug\net5.0\Transformationsofbasicdatatypes.pdb
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.AssemblyInfo.cs
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.dll
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\ref\Transformationsofbasicdatatypes.dll
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.pdb
+F:\C#\MyProjects\Transformationsofbasicdatatypes\obj\Debug\net5.0\Transformationsofbasicdatatypes.genruntimeconfig.cache

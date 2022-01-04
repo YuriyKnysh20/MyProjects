@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\Conditionalexpressions.exe
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\Conditionalexpressions.deps.json
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\Conditionalexpressions.runtimeconfig.json
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\Conditionalexpressions.runtimeconfig.dev.json
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\Conditionalexpressions.dll
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\ref\Conditionalexpressions.dll
+F:\C#\MyProjects\Conditionalexpressions\bin\Debug\net5.0\Conditionalexpressions.pdb
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.AssemblyInfo.cs
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.dll
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\ref\Conditionalexpressions.dll
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.pdb
+F:\C#\MyProjects\Conditionalexpressions\obj\Debug\net5.0\Conditionalexpressions.genruntimeconfig.cache

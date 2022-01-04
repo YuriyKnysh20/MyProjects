@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bitwiseoperations/1.0.0": {
+        "runtime": {
+          "Bitwiseoperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitwiseoperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

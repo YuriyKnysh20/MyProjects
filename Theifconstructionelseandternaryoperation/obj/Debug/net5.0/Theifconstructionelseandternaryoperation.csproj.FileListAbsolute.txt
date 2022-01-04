@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\Theifconstructionelseandternaryoperation.exe
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\Theifconstructionelseandternaryoperation.deps.json
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\Theifconstructionelseandternaryoperation.runtimeconfig.json
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\Theifconstructionelseandternaryoperation.runtimeconfig.dev.json
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\Theifconstructionelseandternaryoperation.dll
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\ref\Theifconstructionelseandternaryoperation.dll
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\bin\Debug\net5.0\Theifconstructionelseandternaryoperation.pdb
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.AssemblyInfo.cs
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.dll
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\ref\Theifconstructionelseandternaryoperation.dll
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.pdb
+F:\C#\MyProjects\Theifconstructionelseandternaryoperation\obj\Debug\net5.0\Theifconstructionelseandternaryoperation.genruntimeconfig.cache

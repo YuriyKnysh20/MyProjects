@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformationsofbasicdatatypes", "Transformationsofbasicdatatypes.csproj", "{528BB4C1-1A5C-473A-869A-7C0244D6D6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528BB4C1-1A5C-473A-869A-7C0244D6D6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528BB4C1-1A5C-473A-869A-7C0244D6D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528BB4C1-1A5C-473A-869A-7C0244D6D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528BB4C1-1A5C-473A-869A-7C0244D6D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BD8707-2403-4A91-96E5-07AA282C4A34}
+	EndGlobalSection
+EndGlobal

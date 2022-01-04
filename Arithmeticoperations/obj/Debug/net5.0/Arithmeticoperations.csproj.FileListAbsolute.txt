@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\Arithmeticoperations.exe
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\Arithmeticoperations.deps.json
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\Arithmeticoperations.runtimeconfig.json
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\Arithmeticoperations.runtimeconfig.dev.json
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\Arithmeticoperations.dll
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\ref\Arithmeticoperations.dll
+F:\C#\MyProjects\Arithmeticoperations\bin\Debug\net5.0\Arithmeticoperations.pdb
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.AssemblyInfo.cs
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.dll
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\ref\Arithmeticoperations.dll
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.pdb
+F:\C#\MyProjects\Arithmeticoperations\obj\Debug\net5.0\Arithmeticoperations.genruntimeconfig.cache

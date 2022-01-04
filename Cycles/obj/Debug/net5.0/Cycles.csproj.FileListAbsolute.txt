@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.AssemblyInfo.cs
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\Cycles.exe
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\Cycles.deps.json
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\Cycles.runtimeconfig.json
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\Cycles.runtimeconfig.dev.json
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\Cycles.dll
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\ref\Cycles.dll
+F:\C#\MyProjects\Cycles\bin\Debug\net5.0\Cycles.pdb
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.dll
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\ref\Cycles.dll
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.pdb
+F:\C#\MyProjects\Cycles\obj\Debug\net5.0\Cycles.genruntimeconfig.cache
