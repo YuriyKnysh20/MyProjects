@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\Constructorsinitializersanddeconstructors.exe
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\Constructorsinitializersanddeconstructors.deps.json
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\Constructorsinitializersanddeconstructors.runtimeconfig.json
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\Constructorsinitializersanddeconstructors.runtimeconfig.dev.json
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\Constructorsinitializersanddeconstructors.dll
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\ref\Constructorsinitializersanddeconstructors.dll
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\bin\Debug\net5.0\Constructorsinitializersanddeconstructors.pdb
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.AssemblyInfo.cs
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.dll
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\ref\Constructorsinitializersanddeconstructors.dll
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.pdb
+F:\C#\MyProjects\Constructorsinitializersanddeconstructors\obj\Debug\net5.0\Constructorsinitializersanddeconstructors.genruntimeconfig.cache

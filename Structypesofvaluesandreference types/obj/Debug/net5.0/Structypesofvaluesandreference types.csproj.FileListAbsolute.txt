@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\Structypesofvaluesandreference types.exe
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\Structypesofvaluesandreference types.deps.json
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\Structypesofvaluesandreference types.runtimeconfig.json
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\Structypesofvaluesandreference types.runtimeconfig.dev.json
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\Structypesofvaluesandreference types.dll
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\ref\Structypesofvaluesandreference types.dll
+F:\C#\MyProjects\Structypesofvaluesandreference types\bin\Debug\net5.0\Structypesofvaluesandreference types.pdb
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.AssemblyInfo.cs
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.dll
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\ref\Structypesofvaluesandreference types.dll
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.pdb
+F:\C#\MyProjects\Structypesofvaluesandreference types\obj\Debug\net5.0\Structypesofvaluesandreference types.genruntimeconfig.cache

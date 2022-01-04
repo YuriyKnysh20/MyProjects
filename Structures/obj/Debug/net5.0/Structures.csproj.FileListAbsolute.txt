@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\Structures.exe
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\Structures.deps.json
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\Structures.runtimeconfig.json
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\Structures.runtimeconfig.dev.json
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\Structures.dll
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\ref\Structures.dll
+F:\C#\MyProjects\Structures\bin\Debug\net5.0\Structures.pdb
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.AssemblyInfo.cs
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.dll
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\ref\Structures.dll
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.pdb
+F:\C#\MyProjects\Structures\obj\Debug\net5.0\Structures.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\Staticmembersandthestaticmodifier.exe
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\Staticmembersandthestaticmodifier.deps.json
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\Staticmembersandthestaticmodifier.runtimeconfig.json
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\Staticmembersandthestaticmodifier.runtimeconfig.dev.json
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\Staticmembersandthestaticmodifier.dll
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\ref\Staticmembersandthestaticmodifier.dll
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\bin\Debug\net5.0\Staticmembersandthestaticmodifier.pdb
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.AssemblyInfo.cs
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.dll
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\ref\Staticmembersandthestaticmodifier.dll
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.pdb
+F:\C#\MyProjects\Staticmembersandthestaticmodifier\obj\Debug\net5.0\Staticmembersandthestaticmodifier.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Features\bin\Debug\net5.0\Features.exe
+F:\C#\MyProjects\Features\bin\Debug\net5.0\Features.deps.json
+F:\C#\MyProjects\Features\bin\Debug\net5.0\Features.runtimeconfig.json
+F:\C#\MyProjects\Features\bin\Debug\net5.0\Features.runtimeconfig.dev.json
+F:\C#\MyProjects\Features\bin\Debug\net5.0\Features.dll
+F:\C#\MyProjects\Features\bin\Debug\net5.0\ref\Features.dll
+F:\C#\MyProjects\Features\bin\Debug\net5.0\Features.pdb
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.AssemblyInfo.cs
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.dll
+F:\C#\MyProjects\Features\obj\Debug\net5.0\ref\Features.dll
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.pdb
+F:\C#\MyProjects\Features\obj\Debug\net5.0\Features.genruntimeconfig.cache

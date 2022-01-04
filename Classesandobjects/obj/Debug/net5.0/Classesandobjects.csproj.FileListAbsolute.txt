@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\Classesandobjects.exe
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\Classesandobjects.deps.json
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\Classesandobjects.runtimeconfig.json
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\Classesandobjects.runtimeconfig.dev.json
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\Classesandobjects.dll
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\ref\Classesandobjects.dll
+F:\C#\MyProjects\Classesandobjects\bin\Debug\net5.0\Classesandobjects.pdb
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.AssemblyInfo.cs
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.dll
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\ref\Classesandobjects.dll
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.pdb
+F:\C#\MyProjects\Classesandobjects\obj\Debug\net5.0\Classesandobjects.genruntimeconfig.cache
