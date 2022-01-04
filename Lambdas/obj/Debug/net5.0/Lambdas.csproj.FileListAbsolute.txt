@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\Lambdas.exe
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\Lambdas.deps.json
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\Lambdas.runtimeconfig.json
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\Lambdas.runtimeconfig.dev.json
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\Lambdas.dll
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\ref\Lambdas.dll
+F:\C#\MyProjects\Lambdas\bin\Debug\net5.0\Lambdas.pdb
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.AssemblyInfo.cs
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.dll
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\ref\Lambdas.dll
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.pdb
+F:\C#\MyProjects\Lambdas\obj\Debug\net5.0\Lambdas.genruntimeconfig.cache

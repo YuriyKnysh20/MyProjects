@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\Returningdelegatesfromthemethod.exe
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\Returningdelegatesfromthemethod.deps.json
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\Returningdelegatesfromthemethod.runtimeconfig.json
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\Returningdelegatesfromthemethod.runtimeconfig.dev.json
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\Returningdelegatesfromthemethod.dll
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\ref\Returningdelegatesfromthemethod.dll
+F:\C#\MyProjects\Returningdelegatesfromthemethod\bin\Debug\net5.0\Returningdelegatesfromthemethod.pdb
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.AssemblyInfo.cs
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.dll
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\ref\Returningdelegatesfromthemethod.dll
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.pdb
+F:\C#\MyProjects\Returningdelegatesfromthemethod\obj\Debug\net5.0\Returningdelegatesfromthemethod.genruntimeconfig.cache
