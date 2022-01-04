@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\Virtualmethodsandproperties.exe
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\Virtualmethodsandproperties.deps.json
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\Virtualmethodsandproperties.runtimeconfig.json
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\Virtualmethodsandproperties.runtimeconfig.dev.json
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\Virtualmethodsandproperties.dll
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\ref\Virtualmethodsandproperties.dll
+F:\C#\MyProjects\Virtualmethodsandproperties\bin\Debug\net5.0\Virtualmethodsandproperties.pdb
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.AssemblyInfo.cs
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.dll
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\ref\Virtualmethodsandproperties.dll
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.pdb
+F:\C#\MyProjects\Virtualmethodsandproperties\obj\Debug\net5.0\Virtualmethodsandproperties.genruntimeconfig.cache
