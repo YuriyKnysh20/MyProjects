@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\Recursivefunctions.exe
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\Recursivefunctions.deps.json
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\Recursivefunctions.runtimeconfig.json
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\Recursivefunctions.runtimeconfig.dev.json
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\Recursivefunctions.dll
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\ref\Recursivefunctions.dll
+F:\C#\MyProjects\Recursivefunctions\bin\Debug\net5.0\Recursivefunctions.pdb
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.AssemblyInfo.cs
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.dll
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\ref\Recursivefunctions.dll
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.pdb
+F:\C#\MyProjects\Recursivefunctions\obj\Debug\net5.0\Recursivefunctions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\Switch.exe
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\Switch.deps.json
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\Switch.dll
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\ref\Switch.dll
+F:\C#\MyProjects\Switch\bin\Debug\net5.0\Switch.pdb
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.dll
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\ref\Switch.dll
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.pdb
+F:\C#\MyProjects\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache

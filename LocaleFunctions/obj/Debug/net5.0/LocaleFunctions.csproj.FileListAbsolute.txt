@@ -1,0 +1,16 @@
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\LocaleFunctions.exe
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\LocaleFunctions.deps.json
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\LocaleFunctions.runtimeconfig.json
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\LocaleFunctions.runtimeconfig.dev.json
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\LocaleFunctions.dll
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\ref\LocaleFunctions.dll
+F:\C#\MyProjects\LocaleFunctions\bin\Debug\net5.0\LocaleFunctions.pdb
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.csproj.AssemblyReference.cache
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.AssemblyInfoInputs.cache
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.AssemblyInfo.cs
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.dll
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\ref\LocaleFunctions.dll
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.pdb
+F:\C#\MyProjects\LocaleFunctions\obj\Debug\net5.0\LocaleFunctions.genruntimeconfig.cache

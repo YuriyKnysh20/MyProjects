@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\Methods.exe
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\Methods.deps.json
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\Methods.dll
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\ref\Methods.dll
+F:\C#\MyProjects\Methods\bin\Debug\net5.0\Methods.pdb
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.dll
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\ref\Methods.dll
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.pdb
+F:\C#\MyProjects\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache

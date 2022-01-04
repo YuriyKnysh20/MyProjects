@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\Enum.exe
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\Enum.deps.json
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\Enum.dll
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\ref\Enum.dll
+F:\C#\MyProjects\Enum\bin\Debug\net5.0\Enum.pdb
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.dll
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\ref\Enum.dll
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.pdb
+F:\C#\MyProjects\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache

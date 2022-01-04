@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\Arrayofparametersandkeywordparams.exe
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\Arrayofparametersandkeywordparams.deps.json
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\Arrayofparametersandkeywordparams.runtimeconfig.json
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\Arrayofparametersandkeywordparams.runtimeconfig.dev.json
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\Arrayofparametersandkeywordparams.dll
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\ref\Arrayofparametersandkeywordparams.dll
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\bin\Debug\net5.0\Arrayofparametersandkeywordparams.pdb
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.AssemblyInfo.cs
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.dll
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\ref\Arrayofparametersandkeywordparams.dll
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.pdb
+F:\C#\MyProjects\Arrayofparametersandkeywordparams\obj\Debug\net5.0\Arrayofparametersandkeywordparams.genruntimeconfig.cache
