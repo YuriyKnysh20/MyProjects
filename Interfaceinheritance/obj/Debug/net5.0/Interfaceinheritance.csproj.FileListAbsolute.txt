@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\Interfaceinheritance.exe
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\Interfaceinheritance.deps.json
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\Interfaceinheritance.runtimeconfig.json
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\Interfaceinheritance.runtimeconfig.dev.json
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\Interfaceinheritance.dll
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\ref\Interfaceinheritance.dll
+F:\C#\MyProjects\Interfaceinheritance\bin\Debug\net5.0\Interfaceinheritance.pdb
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.AssemblyInfo.cs
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.dll
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\ref\Interfaceinheritance.dll
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.pdb
+F:\C#\MyProjects\Interfaceinheritance\obj\Debug\net5.0\Interfaceinheritance.genruntimeconfig.cache

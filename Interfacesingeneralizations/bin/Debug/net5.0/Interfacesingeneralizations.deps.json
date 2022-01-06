@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Interfacesingeneralizations/1.0.0": {
+        "runtime": {
+          "Interfacesingeneralizations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interfacesingeneralizations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

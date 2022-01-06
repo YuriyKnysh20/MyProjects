@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Copying objects.InterfaceIcloneable/1.0.0": {
+        "runtime": {
+          "Copying objects.InterfaceIcloneable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Copying objects.InterfaceIcloneable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

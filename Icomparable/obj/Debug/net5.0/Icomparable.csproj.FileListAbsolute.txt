@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\Icomparable.exe
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\Icomparable.deps.json
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\Icomparable.runtimeconfig.json
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\Icomparable.runtimeconfig.dev.json
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\Icomparable.dll
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\ref\Icomparable.dll
+F:\C#\MyProjects\Icomparable\bin\Debug\net5.0\Icomparable.pdb
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.AssemblyInfo.cs
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.dll
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\ref\Icomparable.dll
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.pdb
+F:\C#\MyProjects\Icomparable\obj\Debug\net5.0\Icomparable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\Interfacesingeneralizations.exe
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\Interfacesingeneralizations.deps.json
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\Interfacesingeneralizations.runtimeconfig.json
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\Interfacesingeneralizations.runtimeconfig.dev.json
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\Interfacesingeneralizations.dll
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\ref\Interfacesingeneralizations.dll
+F:\C#\MyProjects\Interfacesingeneralizations\bin\Debug\net5.0\Interfacesingeneralizations.pdb
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.AssemblyInfo.cs
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.dll
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\ref\Interfacesingeneralizations.dll
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.pdb
+F:\C#\MyProjects\Interfacesingeneralizations\obj\Debug\net5.0\Interfacesingeneralizations.genruntimeconfig.cache
