@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\Linkvariablesandlinkreturn.exe
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\Linkvariablesandlinkreturn.deps.json
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\Linkvariablesandlinkreturn.runtimeconfig.json
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\Linkvariablesandlinkreturn.runtimeconfig.dev.json
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\Linkvariablesandlinkreturn.dll
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\ref\Linkvariablesandlinkreturn.dll
+F:\C#\MyProjects\Linkvariablesandlinkreturn\bin\Debug\net5.0\Linkvariablesandlinkreturn.pdb
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.AssemblyInfo.cs
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.dll
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\ref\Linkvariablesandlinkreturn.dll
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.pdb
+F:\C#\MyProjects\Linkvariablesandlinkreturn\obj\Debug\net5.0\Linkvariablesandlinkreturn.genruntimeconfig.cache
