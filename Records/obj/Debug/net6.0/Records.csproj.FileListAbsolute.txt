@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Records\bin\Debug\net6.0\Records.exe
+F:\C#\MyProjects\Records\bin\Debug\net6.0\Records.deps.json
+F:\C#\MyProjects\Records\bin\Debug\net6.0\Records.runtimeconfig.json
+F:\C#\MyProjects\Records\bin\Debug\net6.0\Records.dll
+F:\C#\MyProjects\Records\bin\Debug\net6.0\ref\Records.dll
+F:\C#\MyProjects\Records\bin\Debug\net6.0\Records.pdb
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.AssemblyInfo.cs
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.dll
+F:\C#\MyProjects\Records\obj\Debug\net6.0\ref\Records.dll
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.pdb
+F:\C#\MyProjects\Records\obj\Debug\net6.0\Records.genruntimeconfig.cache

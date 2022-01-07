@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\Tuples.exe
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\Tuples.deps.json
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\Tuples.runtimeconfig.json
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\Tuples.runtimeconfig.dev.json
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\Tuples.dll
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\ref\Tuples.dll
+F:\C#\MyProjects\Tuples\bin\Debug\net5.0\Tuples.pdb
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.AssemblyInfo.cs
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.dll
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\ref\Tuples.dll
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.pdb
+F:\C#\MyProjects\Tuples\obj\Debug\net5.0\Tuples.genruntimeconfig.cache

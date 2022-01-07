@@ -1,0 +1,16 @@
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\Patternmatching.exe
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\Patternmatching.deps.json
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\Patternmatching.runtimeconfig.json
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\Patternmatching.runtimeconfig.dev.json
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\Patternmatching.dll
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\ref\Patternmatching.dll
+F:\C#\MyProjects\Patternmatching\bin\Debug\net5.0\Patternmatching.pdb
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.AssemblyInfo.cs
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.dll
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\ref\Patternmatching.dll
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.pdb
+F:\C#\MyProjects\Patternmatching\obj\Debug\net5.0\Patternmatching.genruntimeconfig.cache
