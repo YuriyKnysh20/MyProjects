@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6abd92cc-4f64-436a-8e57-4cc280472f5b": {
+      "ProjectGuid": "6abd92cc-4f64-436a-8e57-4cc280472f5b",
+      "DisplayName": "InterfacesIEnumerableandIEnumerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

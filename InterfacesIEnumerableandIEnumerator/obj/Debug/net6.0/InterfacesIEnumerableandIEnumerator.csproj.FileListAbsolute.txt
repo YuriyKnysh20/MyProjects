@@ -1,0 +1,15 @@
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\bin\Debug\net6.0\InterfacesIEnumerableandIEnumerator.exe
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\bin\Debug\net6.0\InterfacesIEnumerableandIEnumerator.deps.json
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\bin\Debug\net6.0\InterfacesIEnumerableandIEnumerator.runtimeconfig.json
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\bin\Debug\net6.0\InterfacesIEnumerableandIEnumerator.dll
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\bin\Debug\net6.0\ref\InterfacesIEnumerableandIEnumerator.dll
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\bin\Debug\net6.0\InterfacesIEnumerableandIEnumerator.pdb
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.csproj.AssemblyReference.cache
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.AssemblyInfoInputs.cache
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.AssemblyInfo.cs
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.dll
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\ref\InterfacesIEnumerableandIEnumerator.dll
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.pdb
+F:\C#\MyProjects\InterfacesIEnumerableandIEnumerator\obj\Debug\net6.0\InterfacesIEnumerableandIEnumerator.genruntimeconfig.cache

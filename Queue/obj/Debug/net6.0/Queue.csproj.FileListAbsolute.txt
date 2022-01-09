@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Queue\bin\Debug\net6.0\Queue.exe
+F:\C#\MyProjects\Queue\bin\Debug\net6.0\Queue.deps.json
+F:\C#\MyProjects\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+F:\C#\MyProjects\Queue\bin\Debug\net6.0\Queue.dll
+F:\C#\MyProjects\Queue\bin\Debug\net6.0\ref\Queue.dll
+F:\C#\MyProjects\Queue\bin\Debug\net6.0\Queue.pdb
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.dll
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\ref\Queue.dll
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.pdb
+F:\C#\MyProjects\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache

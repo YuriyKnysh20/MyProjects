@@ -1,0 +1,15 @@
+F:\C#\MyProjects\ObservsableCollection\bin\Debug\net6.0\ObservsableCollection.exe
+F:\C#\MyProjects\ObservsableCollection\bin\Debug\net6.0\ObservsableCollection.deps.json
+F:\C#\MyProjects\ObservsableCollection\bin\Debug\net6.0\ObservsableCollection.runtimeconfig.json
+F:\C#\MyProjects\ObservsableCollection\bin\Debug\net6.0\ObservsableCollection.dll
+F:\C#\MyProjects\ObservsableCollection\bin\Debug\net6.0\ref\ObservsableCollection.dll
+F:\C#\MyProjects\ObservsableCollection\bin\Debug\net6.0\ObservsableCollection.pdb
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.csproj.AssemblyReference.cache
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.AssemblyInfoInputs.cache
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.AssemblyInfo.cs
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.dll
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ref\ObservsableCollection.dll
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.pdb
+F:\C#\MyProjects\ObservsableCollection\obj\Debug\net6.0\ObservsableCollection.genruntimeconfig.cache
