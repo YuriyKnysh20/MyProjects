@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Stringworks\bin\Debug\net6.0\Stringworks.exe
+F:\C#\MyProjects\Stringworks\bin\Debug\net6.0\Stringworks.deps.json
+F:\C#\MyProjects\Stringworks\bin\Debug\net6.0\Stringworks.runtimeconfig.json
+F:\C#\MyProjects\Stringworks\bin\Debug\net6.0\Stringworks.dll
+F:\C#\MyProjects\Stringworks\bin\Debug\net6.0\ref\Stringworks.dll
+F:\C#\MyProjects\Stringworks\bin\Debug\net6.0\Stringworks.pdb
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.AssemblyInfo.cs
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.dll
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\ref\Stringworks.dll
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.pdb
+F:\C#\MyProjects\Stringworks\obj\Debug\net6.0\Stringworks.genruntimeconfig.cache

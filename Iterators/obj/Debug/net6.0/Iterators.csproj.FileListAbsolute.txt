@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Iterators\bin\Debug\net6.0\Iterators.exe
+F:\C#\MyProjects\Iterators\bin\Debug\net6.0\Iterators.deps.json
+F:\C#\MyProjects\Iterators\bin\Debug\net6.0\Iterators.runtimeconfig.json
+F:\C#\MyProjects\Iterators\bin\Debug\net6.0\Iterators.dll
+F:\C#\MyProjects\Iterators\bin\Debug\net6.0\ref\Iterators.dll
+F:\C#\MyProjects\Iterators\bin\Debug\net6.0\Iterators.pdb
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.AssemblyInfo.cs
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.dll
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\ref\Iterators.dll
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.pdb
+F:\C#\MyProjects\Iterators\obj\Debug\net6.0\Iterators.genruntimeconfig.cache
