@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Formattingandinterpolatingstrings\bin\Debug\net6.0\Formattingandinterpolatingstrings.exe
+F:\C#\MyProjects\Formattingandinterpolatingstrings\bin\Debug\net6.0\Formattingandinterpolatingstrings.deps.json
+F:\C#\MyProjects\Formattingandinterpolatingstrings\bin\Debug\net6.0\Formattingandinterpolatingstrings.runtimeconfig.json
+F:\C#\MyProjects\Formattingandinterpolatingstrings\bin\Debug\net6.0\Formattingandinterpolatingstrings.dll
+F:\C#\MyProjects\Formattingandinterpolatingstrings\bin\Debug\net6.0\ref\Formattingandinterpolatingstrings.dll
+F:\C#\MyProjects\Formattingandinterpolatingstrings\bin\Debug\net6.0\Formattingandinterpolatingstrings.pdb
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.AssemblyInfo.cs
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.dll
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\ref\Formattingandinterpolatingstrings.dll
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.pdb
+F:\C#\MyProjects\Formattingandinterpolatingstrings\obj\Debug\net6.0\Formattingandinterpolatingstrings.genruntimeconfig.cache
