@@ -1,0 +1,15 @@
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.csproj.AssemblyReference.cache
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.AssemblyInfoInputs.cache
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.AssemblyInfo.cs
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\bin\Debug\net6.0\DeferredinitializationandtypeLazy.exe
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\bin\Debug\net6.0\DeferredinitializationandtypeLazy.deps.json
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\bin\Debug\net6.0\DeferredinitializationandtypeLazy.runtimeconfig.json
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\bin\Debug\net6.0\DeferredinitializationandtypeLazy.dll
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\bin\Debug\net6.0\ref\DeferredinitializationandtypeLazy.dll
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\bin\Debug\net6.0\DeferredinitializationandtypeLazy.pdb
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.dll
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\ref\DeferredinitializationandtypeLazy.dll
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.pdb
+F:\C#\MyProjects\DeferredinitializationandtypeLazy\obj\Debug\net6.0\DeferredinitializationandtypeLazy.genruntimeconfig.cache
