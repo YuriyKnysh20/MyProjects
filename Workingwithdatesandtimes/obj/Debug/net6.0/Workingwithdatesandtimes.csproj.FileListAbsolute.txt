@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Workingwithdatesandtimes\bin\Debug\net6.0\Workingwithdatesandtimes.exe
+F:\C#\MyProjects\Workingwithdatesandtimes\bin\Debug\net6.0\Workingwithdatesandtimes.deps.json
+F:\C#\MyProjects\Workingwithdatesandtimes\bin\Debug\net6.0\Workingwithdatesandtimes.runtimeconfig.json
+F:\C#\MyProjects\Workingwithdatesandtimes\bin\Debug\net6.0\Workingwithdatesandtimes.dll
+F:\C#\MyProjects\Workingwithdatesandtimes\bin\Debug\net6.0\ref\Workingwithdatesandtimes.dll
+F:\C#\MyProjects\Workingwithdatesandtimes\bin\Debug\net6.0\Workingwithdatesandtimes.pdb
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.AssemblyInfo.cs
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.dll
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\ref\Workingwithdatesandtimes.dll
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.pdb
+F:\C#\MyProjects\Workingwithdatesandtimes\obj\Debug\net6.0\Workingwithdatesandtimes.genruntimeconfig.cache

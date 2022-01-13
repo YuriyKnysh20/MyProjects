@@ -1,0 +1,15 @@
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.csproj.AssemblyReference.cache
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.AssemblyInfoInputs.cache
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.AssemblyInfo.cs
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\DateOnlyandTimeOnly\bin\Debug\net6.0\DateOnlyandTimeOnly.exe
+F:\C#\MyProjects\DateOnlyandTimeOnly\bin\Debug\net6.0\DateOnlyandTimeOnly.deps.json
+F:\C#\MyProjects\DateOnlyandTimeOnly\bin\Debug\net6.0\DateOnlyandTimeOnly.runtimeconfig.json
+F:\C#\MyProjects\DateOnlyandTimeOnly\bin\Debug\net6.0\DateOnlyandTimeOnly.dll
+F:\C#\MyProjects\DateOnlyandTimeOnly\bin\Debug\net6.0\ref\DateOnlyandTimeOnly.dll
+F:\C#\MyProjects\DateOnlyandTimeOnly\bin\Debug\net6.0\DateOnlyandTimeOnly.pdb
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.dll
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\ref\DateOnlyandTimeOnly.dll
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.pdb
+F:\C#\MyProjects\DateOnlyandTimeOnly\obj\Debug\net6.0\DateOnlyandTimeOnly.genruntimeconfig.cache
