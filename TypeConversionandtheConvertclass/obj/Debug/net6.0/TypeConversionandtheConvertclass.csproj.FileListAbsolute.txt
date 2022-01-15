@@ -1,0 +1,15 @@
+F:\C#\MyProjects\TypeConversionandtheConvertclass\bin\Debug\net6.0\TypeConversionandtheConvertclass.exe
+F:\C#\MyProjects\TypeConversionandtheConvertclass\bin\Debug\net6.0\TypeConversionandtheConvertclass.deps.json
+F:\C#\MyProjects\TypeConversionandtheConvertclass\bin\Debug\net6.0\TypeConversionandtheConvertclass.runtimeconfig.json
+F:\C#\MyProjects\TypeConversionandtheConvertclass\bin\Debug\net6.0\TypeConversionandtheConvertclass.dll
+F:\C#\MyProjects\TypeConversionandtheConvertclass\bin\Debug\net6.0\ref\TypeConversionandtheConvertclass.dll
+F:\C#\MyProjects\TypeConversionandtheConvertclass\bin\Debug\net6.0\TypeConversionandtheConvertclass.pdb
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.csproj.AssemblyReference.cache
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.AssemblyInfoInputs.cache
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.AssemblyInfo.cs
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.dll
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\ref\TypeConversionandtheConvertclass.dll
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.pdb
+F:\C#\MyProjects\TypeConversionandtheConvertclass\obj\Debug\net6.0\TypeConversionandtheConvertclass.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\bin\Debug\net6.0\MathematicalcalculationsandMathclass.exe
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\bin\Debug\net6.0\MathematicalcalculationsandMathclass.deps.json
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\bin\Debug\net6.0\MathematicalcalculationsandMathclass.runtimeconfig.json
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\bin\Debug\net6.0\MathematicalcalculationsandMathclass.dll
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\bin\Debug\net6.0\ref\MathematicalcalculationsandMathclass.dll
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\bin\Debug\net6.0\MathematicalcalculationsandMathclass.pdb
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.csproj.AssemblyReference.cache
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.AssemblyInfoInputs.cache
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.AssemblyInfo.cs
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.dll
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\ref\MathematicalcalculationsandMathclass.dll
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.pdb
+F:\C#\MyProjects\MathematicalcalculationsandMathclass\obj\Debug\net6.0\MathematicalcalculationsandMathclass.genruntimeconfig.cache
