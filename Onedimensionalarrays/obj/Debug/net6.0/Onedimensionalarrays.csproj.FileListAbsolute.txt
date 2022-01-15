@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Onedimensionalarrays\bin\Debug\net6.0\Onedimensionalarrays.exe
+F:\C#\MyProjects\Onedimensionalarrays\bin\Debug\net6.0\Onedimensionalarrays.deps.json
+F:\C#\MyProjects\Onedimensionalarrays\bin\Debug\net6.0\Onedimensionalarrays.runtimeconfig.json
+F:\C#\MyProjects\Onedimensionalarrays\bin\Debug\net6.0\Onedimensionalarrays.dll
+F:\C#\MyProjects\Onedimensionalarrays\bin\Debug\net6.0\ref\Onedimensionalarrays.dll
+F:\C#\MyProjects\Onedimensionalarrays\bin\Debug\net6.0\Onedimensionalarrays.pdb
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.AssemblyInfo.cs
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.dll
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\ref\Onedimensionalarrays.dll
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.pdb
+F:\C#\MyProjects\Onedimensionalarrays\obj\Debug\net6.0\Onedimensionalarrays.genruntimeconfig.cache

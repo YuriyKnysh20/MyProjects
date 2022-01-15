@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Indexesanddeepranges\bin\Debug\net6.0\Indexesanddeepranges.exe
+F:\C#\MyProjects\Indexesanddeepranges\bin\Debug\net6.0\Indexesanddeepranges.deps.json
+F:\C#\MyProjects\Indexesanddeepranges\bin\Debug\net6.0\Indexesanddeepranges.runtimeconfig.json
+F:\C#\MyProjects\Indexesanddeepranges\bin\Debug\net6.0\Indexesanddeepranges.dll
+F:\C#\MyProjects\Indexesanddeepranges\bin\Debug\net6.0\ref\Indexesanddeepranges.dll
+F:\C#\MyProjects\Indexesanddeepranges\bin\Debug\net6.0\Indexesanddeepranges.pdb
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.AssemblyInfo.cs
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.dll
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\ref\Indexesanddeepranges.dll
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.pdb
+F:\C#\MyProjects\Indexesanddeepranges\obj\Debug\net6.0\Indexesanddeepranges.genruntimeconfig.cache
