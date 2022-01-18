@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Monitors\bin\Debug\net6.0\Monitors.exe
+F:\C#\MyProjects\Monitors\bin\Debug\net6.0\Monitors.deps.json
+F:\C#\MyProjects\Monitors\bin\Debug\net6.0\Monitors.runtimeconfig.json
+F:\C#\MyProjects\Monitors\bin\Debug\net6.0\Monitors.dll
+F:\C#\MyProjects\Monitors\bin\Debug\net6.0\ref\Monitors.dll
+F:\C#\MyProjects\Monitors\bin\Debug\net6.0\Monitors.pdb
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.AssemblyInfo.cs
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.dll
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\ref\Monitors.dll
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.pdb
+F:\C#\MyProjects\Monitors\obj\Debug\net6.0\Monitors.genruntimeconfig.cache

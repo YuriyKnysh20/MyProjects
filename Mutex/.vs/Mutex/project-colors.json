@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1458a51e-0578-444c-84dc-227203a50b96": {
+      "ProjectGuid": "1458a51e-0578-444c-84dc-227203a50b96",
+      "DisplayName": "Mutex",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

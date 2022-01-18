@@ -1,0 +1,15 @@
+F:\C#\MyProjects\AutoResetEvent\bin\Debug\net6.0\AutoResetEvent.exe
+F:\C#\MyProjects\AutoResetEvent\bin\Debug\net6.0\AutoResetEvent.deps.json
+F:\C#\MyProjects\AutoResetEvent\bin\Debug\net6.0\AutoResetEvent.runtimeconfig.json
+F:\C#\MyProjects\AutoResetEvent\bin\Debug\net6.0\AutoResetEvent.dll
+F:\C#\MyProjects\AutoResetEvent\bin\Debug\net6.0\ref\AutoResetEvent.dll
+F:\C#\MyProjects\AutoResetEvent\bin\Debug\net6.0\AutoResetEvent.pdb
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.csproj.AssemblyReference.cache
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.AssemblyInfoInputs.cache
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.AssemblyInfo.cs
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.dll
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\ref\AutoResetEvent.dll
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.pdb
+F:\C#\MyProjects\AutoResetEvent\obj\Debug\net6.0\AutoResetEvent.genruntimeconfig.cache

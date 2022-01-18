@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbc4ed9a-9fb5-4105-be76-587f774de7d5": {
+      "ProjectGuid": "fbc4ed9a-9fb5-4105-be76-587f774de7d5",
+      "DisplayName": "Semafors",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

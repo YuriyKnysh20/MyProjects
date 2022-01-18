@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Creatingthreads\bin\Debug\net6.0\Creatingthreads.exe
+F:\C#\MyProjects\Creatingthreads\bin\Debug\net6.0\Creatingthreads.deps.json
+F:\C#\MyProjects\Creatingthreads\bin\Debug\net6.0\Creatingthreads.runtimeconfig.json
+F:\C#\MyProjects\Creatingthreads\bin\Debug\net6.0\Creatingthreads.dll
+F:\C#\MyProjects\Creatingthreads\bin\Debug\net6.0\ref\Creatingthreads.dll
+F:\C#\MyProjects\Creatingthreads\bin\Debug\net6.0\Creatingthreads.pdb
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.AssemblyInfo.cs
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.dll
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\ref\Creatingthreads.dll
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.pdb
+F:\C#\MyProjects\Creatingthreads\obj\Debug\net6.0\Creatingthreads.genruntimeconfig.cache

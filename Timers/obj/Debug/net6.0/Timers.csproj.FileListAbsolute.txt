@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Timers\bin\Debug\net6.0\Timers.exe
+F:\C#\MyProjects\Timers\bin\Debug\net6.0\Timers.deps.json
+F:\C#\MyProjects\Timers\bin\Debug\net6.0\Timers.runtimeconfig.json
+F:\C#\MyProjects\Timers\bin\Debug\net6.0\Timers.dll
+F:\C#\MyProjects\Timers\bin\Debug\net6.0\ref\Timers.dll
+F:\C#\MyProjects\Timers\bin\Debug\net6.0\Timers.pdb
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.AssemblyInfo.cs
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.dll
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\ref\Timers.dll
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.pdb
+F:\C#\MyProjects\Timers\obj\Debug\net6.0\Timers.genruntimeconfig.cache

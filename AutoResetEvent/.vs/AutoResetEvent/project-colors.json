@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f8b25b0-a50c-4731-b152-5ca4870ce937": {
+      "ProjectGuid": "6f8b25b0-a50c-4731-b152-5ca4870ce937",
+      "DisplayName": "AutoResetEvent",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

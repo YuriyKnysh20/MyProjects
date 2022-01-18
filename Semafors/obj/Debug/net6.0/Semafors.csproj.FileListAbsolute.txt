@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Semafors\bin\Debug\net6.0\Semafors.exe
+F:\C#\MyProjects\Semafors\bin\Debug\net6.0\Semafors.deps.json
+F:\C#\MyProjects\Semafors\bin\Debug\net6.0\Semafors.runtimeconfig.json
+F:\C#\MyProjects\Semafors\bin\Debug\net6.0\Semafors.dll
+F:\C#\MyProjects\Semafors\bin\Debug\net6.0\ref\Semafors.dll
+F:\C#\MyProjects\Semafors\bin\Debug\net6.0\Semafors.pdb
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.AssemblyInfo.cs
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.dll
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\ref\Semafors.dll
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.pdb
+F:\C#\MyProjects\Semafors\obj\Debug\net6.0\Semafors.genruntimeconfig.cache

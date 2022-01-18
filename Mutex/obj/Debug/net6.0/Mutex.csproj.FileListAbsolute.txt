@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Mutex\bin\Debug\net6.0\Mutex.exe
+F:\C#\MyProjects\Mutex\bin\Debug\net6.0\Mutex.deps.json
+F:\C#\MyProjects\Mutex\bin\Debug\net6.0\Mutex.runtimeconfig.json
+F:\C#\MyProjects\Mutex\bin\Debug\net6.0\Mutex.dll
+F:\C#\MyProjects\Mutex\bin\Debug\net6.0\ref\Mutex.dll
+F:\C#\MyProjects\Mutex\bin\Debug\net6.0\Mutex.pdb
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.AssemblyInfo.cs
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.dll
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\ref\Mutex.dll
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.pdb
+F:\C#\MyProjects\Mutex\obj\Debug\net6.0\Mutex.genruntimeconfig.cache

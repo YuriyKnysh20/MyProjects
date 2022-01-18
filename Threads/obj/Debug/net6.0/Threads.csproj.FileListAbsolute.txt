@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Threads\bin\Debug\net6.0\Threads.exe
+F:\C#\MyProjects\Threads\bin\Debug\net6.0\Threads.deps.json
+F:\C#\MyProjects\Threads\bin\Debug\net6.0\Threads.runtimeconfig.json
+F:\C#\MyProjects\Threads\bin\Debug\net6.0\Threads.dll
+F:\C#\MyProjects\Threads\bin\Debug\net6.0\ref\Threads.dll
+F:\C#\MyProjects\Threads\bin\Debug\net6.0\Threads.pdb
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.AssemblyInfo.cs
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.dll
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\ref\Threads.dll
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.pdb
+F:\C#\MyProjects\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache
