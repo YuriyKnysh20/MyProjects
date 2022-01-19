@@ -1,0 +1,15 @@
+F:\C#\MyProjects\ArrayOfTask\bin\Debug\net6.0\ArrayOfTask.exe
+F:\C#\MyProjects\ArrayOfTask\bin\Debug\net6.0\ArrayOfTask.deps.json
+F:\C#\MyProjects\ArrayOfTask\bin\Debug\net6.0\ArrayOfTask.runtimeconfig.json
+F:\C#\MyProjects\ArrayOfTask\bin\Debug\net6.0\ArrayOfTask.dll
+F:\C#\MyProjects\ArrayOfTask\bin\Debug\net6.0\ref\ArrayOfTask.dll
+F:\C#\MyProjects\ArrayOfTask\bin\Debug\net6.0\ArrayOfTask.pdb
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.csproj.AssemblyReference.cache
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.AssemblyInfoInputs.cache
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.AssemblyInfo.cs
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.dll
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ref\ArrayOfTask.dll
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.pdb
+F:\C#\MyProjects\ArrayOfTask\obj\Debug\net6.0\ArrayOfTask.genruntimeconfig.cache

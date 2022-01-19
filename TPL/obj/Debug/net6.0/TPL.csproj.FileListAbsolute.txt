@@ -1,0 +1,15 @@
+F:\C#\MyProjects\TPL\bin\Debug\net6.0\TPL.exe
+F:\C#\MyProjects\TPL\bin\Debug\net6.0\TPL.deps.json
+F:\C#\MyProjects\TPL\bin\Debug\net6.0\TPL.runtimeconfig.json
+F:\C#\MyProjects\TPL\bin\Debug\net6.0\TPL.dll
+F:\C#\MyProjects\TPL\bin\Debug\net6.0\ref\TPL.dll
+F:\C#\MyProjects\TPL\bin\Debug\net6.0\TPL.pdb
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.csproj.AssemblyReference.cache
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.AssemblyInfoInputs.cache
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.AssemblyInfo.cs
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.dll
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\ref\TPL.dll
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.pdb
+F:\C#\MyProjects\TPL\obj\Debug\net6.0\TPL.genruntimeconfig.cache

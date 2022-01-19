@@ -1,0 +1,15 @@
+F:\C#\MyProjects\LibraryTPL\bin\Debug\net6.0\LibraryTPL.exe
+F:\C#\MyProjects\LibraryTPL\bin\Debug\net6.0\LibraryTPL.deps.json
+F:\C#\MyProjects\LibraryTPL\bin\Debug\net6.0\LibraryTPL.runtimeconfig.json
+F:\C#\MyProjects\LibraryTPL\bin\Debug\net6.0\LibraryTPL.dll
+F:\C#\MyProjects\LibraryTPL\bin\Debug\net6.0\ref\LibraryTPL.dll
+F:\C#\MyProjects\LibraryTPL\bin\Debug\net6.0\LibraryTPL.pdb
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.csproj.AssemblyReference.cache
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.AssemblyInfoInputs.cache
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.AssemblyInfo.cs
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.dll
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\ref\LibraryTPL.dll
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.pdb
+F:\C#\MyProjects\LibraryTPL\obj\Debug\net6.0\LibraryTPL.genruntimeconfig.cache
