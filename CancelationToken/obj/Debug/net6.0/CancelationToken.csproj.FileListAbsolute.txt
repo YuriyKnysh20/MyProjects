@@ -1,0 +1,15 @@
+F:\C#\MyProjects\CancelationToken\bin\Debug\net6.0\CancelationToken.exe
+F:\C#\MyProjects\CancelationToken\bin\Debug\net6.0\CancelationToken.deps.json
+F:\C#\MyProjects\CancelationToken\bin\Debug\net6.0\CancelationToken.runtimeconfig.json
+F:\C#\MyProjects\CancelationToken\bin\Debug\net6.0\CancelationToken.dll
+F:\C#\MyProjects\CancelationToken\bin\Debug\net6.0\ref\CancelationToken.dll
+F:\C#\MyProjects\CancelationToken\bin\Debug\net6.0\CancelationToken.pdb
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.csproj.AssemblyReference.cache
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.AssemblyInfoInputs.cache
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.AssemblyInfo.cs
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.dll
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\ref\CancelationToken.dll
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.pdb
+F:\C#\MyProjects\CancelationToken\obj\Debug\net6.0\CancelationToken.genruntimeconfig.cache

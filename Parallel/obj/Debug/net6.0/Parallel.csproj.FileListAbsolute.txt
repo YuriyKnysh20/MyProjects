@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Parallel\bin\Debug\net6.0\Parallel.exe
+F:\C#\MyProjects\Parallel\bin\Debug\net6.0\Parallel.deps.json
+F:\C#\MyProjects\Parallel\bin\Debug\net6.0\Parallel.runtimeconfig.json
+F:\C#\MyProjects\Parallel\bin\Debug\net6.0\Parallel.dll
+F:\C#\MyProjects\Parallel\bin\Debug\net6.0\ref\Parallel.dll
+F:\C#\MyProjects\Parallel\bin\Debug\net6.0\Parallel.pdb
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfo.cs
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.dll
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\ref\Parallel.dll
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.pdb
+F:\C#\MyProjects\Parallel\obj\Debug\net6.0\Parallel.genruntimeconfig.cache

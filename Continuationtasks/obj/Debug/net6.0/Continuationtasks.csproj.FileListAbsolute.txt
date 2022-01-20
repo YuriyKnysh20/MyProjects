@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Continuationtasks\bin\Debug\net6.0\Continuationtasks.exe
+F:\C#\MyProjects\Continuationtasks\bin\Debug\net6.0\Continuationtasks.deps.json
+F:\C#\MyProjects\Continuationtasks\bin\Debug\net6.0\Continuationtasks.runtimeconfig.json
+F:\C#\MyProjects\Continuationtasks\bin\Debug\net6.0\Continuationtasks.dll
+F:\C#\MyProjects\Continuationtasks\bin\Debug\net6.0\ref\Continuationtasks.dll
+F:\C#\MyProjects\Continuationtasks\bin\Debug\net6.0\Continuationtasks.pdb
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.AssemblyInfo.cs
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.dll
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\ref\Continuationtasks.dll
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.pdb
+F:\C#\MyProjects\Continuationtasks\obj\Debug\net6.0\Continuationtasks.genruntimeconfig.cache

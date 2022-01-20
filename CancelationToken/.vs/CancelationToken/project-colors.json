@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01c2a02f-7c06-4d17-8e50-5508a92b71e4": {
+      "ProjectGuid": "01c2a02f-7c06-4d17-8e50-5508a92b71e4",
+      "DisplayName": "CancelationToken",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
