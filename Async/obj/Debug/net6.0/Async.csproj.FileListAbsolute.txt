@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Async\bin\Debug\net6.0\Async.exe
+F:\C#\MyProjects\Async\bin\Debug\net6.0\Async.deps.json
+F:\C#\MyProjects\Async\bin\Debug\net6.0\Async.runtimeconfig.json
+F:\C#\MyProjects\Async\bin\Debug\net6.0\Async.dll
+F:\C#\MyProjects\Async\bin\Debug\net6.0\ref\Async.dll
+F:\C#\MyProjects\Async\bin\Debug\net6.0\Async.pdb
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.AssemblyInfo.cs
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.dll
+F:\C#\MyProjects\Async\obj\Debug\net6.0\ref\Async.dll
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.pdb
+F:\C#\MyProjects\Async\obj\Debug\net6.0\Async.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "154f3d03-fa7d-4d91-97d7-00c95aca96c9": {
+      "ProjectGuid": "154f3d03-fa7d-4d91-97d7-00c95aca96c9",
+      "DisplayName": "Sequentialandparallelinvocationofasynchronousoperations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
