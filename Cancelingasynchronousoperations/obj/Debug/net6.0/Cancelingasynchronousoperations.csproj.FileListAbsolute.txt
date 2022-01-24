@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Cancelingasynchronousoperations\bin\Debug\net6.0\Cancelingasynchronousoperations.exe
+F:\C#\MyProjects\Cancelingasynchronousoperations\bin\Debug\net6.0\Cancelingasynchronousoperations.deps.json
+F:\C#\MyProjects\Cancelingasynchronousoperations\bin\Debug\net6.0\Cancelingasynchronousoperations.runtimeconfig.json
+F:\C#\MyProjects\Cancelingasynchronousoperations\bin\Debug\net6.0\Cancelingasynchronousoperations.dll
+F:\C#\MyProjects\Cancelingasynchronousoperations\bin\Debug\net6.0\ref\Cancelingasynchronousoperations.dll
+F:\C#\MyProjects\Cancelingasynchronousoperations\bin\Debug\net6.0\Cancelingasynchronousoperations.pdb
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.AssemblyInfo.cs
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.dll
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\ref\Cancelingasynchronousoperations.dll
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.pdb
+F:\C#\MyProjects\Cancelingasynchronousoperations\obj\Debug\net6.0\Cancelingasynchronousoperations.genruntimeconfig.cache

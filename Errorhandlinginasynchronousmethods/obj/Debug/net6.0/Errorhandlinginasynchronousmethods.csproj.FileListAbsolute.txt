@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\bin\Debug\net6.0\Errorhandlinginasynchronousmethods.exe
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\bin\Debug\net6.0\Errorhandlinginasynchronousmethods.deps.json
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\bin\Debug\net6.0\Errorhandlinginasynchronousmethods.runtimeconfig.json
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\bin\Debug\net6.0\Errorhandlinginasynchronousmethods.dll
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\bin\Debug\net6.0\ref\Errorhandlinginasynchronousmethods.dll
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\bin\Debug\net6.0\Errorhandlinginasynchronousmethods.pdb
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.AssemblyInfo.cs
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.dll
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\ref\Errorhandlinginasynchronousmethods.dll
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.pdb
+F:\C#\MyProjects\Errorhandlinginasynchronousmethods\obj\Debug\net6.0\Errorhandlinginasynchronousmethods.genruntimeconfig.cache
