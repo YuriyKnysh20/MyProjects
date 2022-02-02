@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.AssemblyInfo.cs
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Exceptionses\bin\Debug\net6.0\Exceptionses.exe
+F:\C#\MyProjects\Exceptionses\bin\Debug\net6.0\Exceptionses.deps.json
+F:\C#\MyProjects\Exceptionses\bin\Debug\net6.0\Exceptionses.runtimeconfig.json
+F:\C#\MyProjects\Exceptionses\bin\Debug\net6.0\Exceptionses.dll
+F:\C#\MyProjects\Exceptionses\bin\Debug\net6.0\ref\Exceptionses.dll
+F:\C#\MyProjects\Exceptionses\bin\Debug\net6.0\Exceptionses.pdb
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.dll
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\ref\Exceptionses.dll
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.pdb
+F:\C#\MyProjects\Exceptionses\obj\Debug\net6.0\Exceptionses.genruntimeconfig.cache
