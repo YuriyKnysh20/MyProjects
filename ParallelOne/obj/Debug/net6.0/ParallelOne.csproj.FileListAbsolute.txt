@@ -1,0 +1,15 @@
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.csproj.AssemblyReference.cache
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.AssemblyInfoInputs.cache
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.AssemblyInfo.cs
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\ParallelOne\bin\Debug\net6.0\ParallelOne.exe
+F:\C#\MyProjects\ParallelOne\bin\Debug\net6.0\ParallelOne.deps.json
+F:\C#\MyProjects\ParallelOne\bin\Debug\net6.0\ParallelOne.runtimeconfig.json
+F:\C#\MyProjects\ParallelOne\bin\Debug\net6.0\ParallelOne.dll
+F:\C#\MyProjects\ParallelOne\bin\Debug\net6.0\ref\ParallelOne.dll
+F:\C#\MyProjects\ParallelOne\bin\Debug\net6.0\ParallelOne.pdb
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.dll
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ref\ParallelOne.dll
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.pdb
+F:\C#\MyProjects\ParallelOne\obj\Debug\net6.0\ParallelOne.genruntimeconfig.cache

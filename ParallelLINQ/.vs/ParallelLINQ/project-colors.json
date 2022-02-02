@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fffe811c-fdb2-42d7-9ef3-a442c22f72a9": {
+      "ProjectGuid": "fffe811c-fdb2-42d7-9ef3-a442c22f72a9",
+      "DisplayName": "ParallelLINQ",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
