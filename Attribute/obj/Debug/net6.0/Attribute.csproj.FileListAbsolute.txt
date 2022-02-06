@@ -1,0 +1,15 @@
+F:\C#\MyProjects\Attribute\bin\Debug\net6.0\Attribute.exe
+F:\C#\MyProjects\Attribute\bin\Debug\net6.0\Attribute.deps.json
+F:\C#\MyProjects\Attribute\bin\Debug\net6.0\Attribute.runtimeconfig.json
+F:\C#\MyProjects\Attribute\bin\Debug\net6.0\Attribute.dll
+F:\C#\MyProjects\Attribute\bin\Debug\net6.0\ref\Attribute.dll
+F:\C#\MyProjects\Attribute\bin\Debug\net6.0\Attribute.pdb
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.csproj.AssemblyReference.cache
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.AssemblyInfoInputs.cache
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.AssemblyInfo.cs
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.dll
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\ref\Attribute.dll
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.pdb
+F:\C#\MyProjects\Attribute\obj\Debug\net6.0\Attribute.genruntimeconfig.cache

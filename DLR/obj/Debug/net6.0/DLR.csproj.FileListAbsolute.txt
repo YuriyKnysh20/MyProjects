@@ -1,0 +1,15 @@
+F:\C#\MyProjects\DLR\bin\Debug\net6.0\DLR.exe
+F:\C#\MyProjects\DLR\bin\Debug\net6.0\DLR.deps.json
+F:\C#\MyProjects\DLR\bin\Debug\net6.0\DLR.runtimeconfig.json
+F:\C#\MyProjects\DLR\bin\Debug\net6.0\DLR.dll
+F:\C#\MyProjects\DLR\bin\Debug\net6.0\ref\DLR.dll
+F:\C#\MyProjects\DLR\bin\Debug\net6.0\DLR.pdb
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.csproj.AssemblyReference.cache
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.AssemblyInfoInputs.cache
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.AssemblyInfo.cs
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.dll
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\ref\DLR.dll
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.pdb
+F:\C#\MyProjects\DLR\obj\Debug\net6.0\DLR.genruntimeconfig.cache

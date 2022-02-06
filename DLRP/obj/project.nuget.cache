@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMUch3Yh/xKRj7qPy6Iweh//bn/+hZp+gIQe7M0/tmbSHUIvJUpInUZR05KfN26MUFMieici5jBvwKXiMQQR/A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\MyProjects\\DLRP\\DLRP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnsuser\\.nuget\\packages\\dynamiclanguageruntime\\1.3.1\\dynamiclanguageruntime.1.3.1.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\ironpython\\2.7.12\\ironpython.2.7.12.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\ironruby\\1.1.3\\ironruby.1.1.3.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\dnsuser\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"IronRuby 1.1.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "IronRuby",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
