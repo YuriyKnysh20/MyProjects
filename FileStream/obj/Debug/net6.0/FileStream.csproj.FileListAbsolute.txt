@@ -1,0 +1,15 @@
+F:\C#\MyProjects\FileStream\bin\Debug\net6.0\FileStream.exe
+F:\C#\MyProjects\FileStream\bin\Debug\net6.0\FileStream.deps.json
+F:\C#\MyProjects\FileStream\bin\Debug\net6.0\FileStream.runtimeconfig.json
+F:\C#\MyProjects\FileStream\bin\Debug\net6.0\FileStream.dll
+F:\C#\MyProjects\FileStream\bin\Debug\net6.0\ref\FileStream.dll
+F:\C#\MyProjects\FileStream\bin\Debug\net6.0\FileStream.pdb
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.csproj.AssemblyReference.cache
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfoInputs.cache
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfo.cs
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.dll
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\ref\FileStream.dll
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.pdb
+F:\C#\MyProjects\FileStream\obj\Debug\net6.0\FileStream.genruntimeconfig.cache

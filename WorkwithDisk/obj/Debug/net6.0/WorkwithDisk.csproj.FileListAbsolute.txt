@@ -1,0 +1,15 @@
+F:\C#\MyProjects\WorkwithDisk\bin\Debug\net6.0\WorkwithDisk.exe
+F:\C#\MyProjects\WorkwithDisk\bin\Debug\net6.0\WorkwithDisk.deps.json
+F:\C#\MyProjects\WorkwithDisk\bin\Debug\net6.0\WorkwithDisk.runtimeconfig.json
+F:\C#\MyProjects\WorkwithDisk\bin\Debug\net6.0\WorkwithDisk.dll
+F:\C#\MyProjects\WorkwithDisk\bin\Debug\net6.0\ref\WorkwithDisk.dll
+F:\C#\MyProjects\WorkwithDisk\bin\Debug\net6.0\WorkwithDisk.pdb
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.csproj.AssemblyReference.cache
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.AssemblyInfoInputs.cache
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.AssemblyInfo.cs
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.csproj.CoreCompileInputs.cache
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.dll
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\ref\WorkwithDisk.dll
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.pdb
+F:\C#\MyProjects\WorkwithDisk\obj\Debug\net6.0\WorkwithDisk.genruntimeconfig.cache
